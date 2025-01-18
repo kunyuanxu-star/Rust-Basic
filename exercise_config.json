@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Generics Exercise 1",
+        "path": "exercises/generics/generics1.rs"
+    },
+    {
+        "name": "Generics Exercise 2",
+        "path": "exercises/generics/generics2.rs"
+    },
+    {
+        "name": "Hashmaps Exercise 1",
+        "path": "exercises/hashmaps/hashmaps1.rs"
+    },
+    {
+        "name": "Hashmaps Exercise 2",
+        "path": "exercises/hashmaps/hashmaps2.rs"
+    },
+    {
+        "name": "Hashmaps Exercise 3",
+        "path": "exercises/hashmaps/hashmaps3.rs"
+    },
+    {
+        "name": "Iterators Exercise 1",
+        "path": "exercises/iterators/iterators1.rs"
+    },
+    {
+        "name": "Iterators Exercise 2",
+        "path": "exercises/iterators/iterators2.rs"
+    },
+    {
+        "name": "Lifetimes Exercise 1",
+        "path": "exercises/lifetimes/lifetimes1.rs"
+    },
+    {
+        "name": "Lifetimes Exercise 2",
+        "path": "exercises/lifetimes/lifetimes2.rs"
+    },
+    {
+        "name": "Lifetimes Exercise 3",
+        "path": "exercises/lifetimes/lifetimes3.rs"
+    },
+    {
+        "name": "Macros Exercise 1",
+        "path": "exercises/macros/macros1.rs"
+    },
+    {
+        "name": "Macros Exercise 2",
+        "path": "exercises/macros/macros2.rs"
+    },
+    {
+        "name": "Modules Exercise 2",
+        "path": "exercises/modules/modules2.rs"
+    },
+    {
+        "name": "Move Semantics Exercise 4",
+        "path": "exercises/move_semantics/move_semantics4.rs"
+    },
+    {
+        "name": "Move Semantics Exercise 5",
+        "path": "exercises/move_semantics/move_semantics5.rs"
+    },
+    {
+        "name": "Move Semantics Exercise 6",
+        "path": "exercises/move_semantics/move_semantics6.rs"
+    },
+    {
+        "name": "Options Exercise 1",
+        "path": "exercises/options/options1.rs"
+    },
+    {
+        "name": "Smart Pointers Exercise: ARC",
+        "path": "exercises/smart_pointers/arc1.rs"
+    },
+    {
+        "name": "Smart Pointers Exercise: Box",
+        "path": "exercises/smart_pointers/box1.rs"
+    },
+    {
+        "name": "Smart Pointers Exercise: COW",
+        "path": "exercises/smart_pointers/cow1.rs"
+    },
+    {
+        "name": "Smart Pointers Exercise: RC",
+        "path": "exercises/smart_pointers/rc1.rs"
+    },
+    {
+        "name": "Strings Exercise 3",
+        "path": "exercises/strings/strings3.rs"
+    },
+    {
+        "name": "Strings Exercise 4",
+        "path": "exercises/strings/strings4.rs"
+    },
+    {
+        "name": "Structs Exercise 1",
+        "path": "exercises/structs/structs1.rs"
+    },
+    {
+        "name": "Traits Exercise 3",
+        "path": "exercises/traits/traits3.rs"
+    },
+    {
+        "name": "Traits Exercise 4",
+        "path": "exercises/traits/traits4.rs"
+    },
+    {
+        "name": "Vecs Exercise 1",
+        "path": "exercises/vecs/vecs1.rs"
+    },
+    {
+        "name": "Vecs Exercise 2",
+        "path": "exercises/vecs/vecs2.rs"
+    },
+    {
+        "name": "Quiz Exercise 2",
+        "path": "exercises/quiz/quiz2.rs"
+    },
+    {
+        "name": "Quiz Exercise 3",
+        "path": "exercises/quiz/quiz3.rs"
+    },
+    {
+        "name": "Solution 1",
+        "path": "exercises/solutiont1/src/main.rs"
+    },
+    {
+        "name": "Solution 2",
+        "path": "exercises/solutiont2/src/main.rs"
+    },
+    {
+        "name": "Solution 3",
+        "path": "exercises/solutiont3/src/main.rs"
+    },
+    {
+        "name": "Solution 4",
+        "path": "exercises/solutiont4/src/main.rs"
+    },
+    {
+        "name": "Solution 5",
+        "path": "exercises/solutiont5/src/main.rs"
+    }
+]
